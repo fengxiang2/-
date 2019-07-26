@@ -5,7 +5,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 import time
-import re
 import pymongo
 from pyquery import PyQuery as pq
 from selenium.webdriver.common.keys import Keys
